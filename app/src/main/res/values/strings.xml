@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GOOD ME</string>
+    <string name="tab_main">首页</string>
+    <string name="tab_sub">点单</string>
+    <string name="tab_order">订单</string>
+    <string name="tab_my">我的</string>
+    <string name="introduction">
+        古茗创始于2010年，隶属于浙江古茗科技有限公司，是一家坚持追求新鲜、好喝、不贵的茶饮连锁品牌。经过十年的积累与沉淀，古茗依靠自身专业的研发团队、健全的冷链物流仓储和严格的品控质检，保证食品安全与饮品最佳风味，为顾客提供更加天然、新鲜的现调饮品，至今已拥有门店4300+家。
+    </string>
+    <string name="about">
+        古茗茶饮拥有一支专业的饮品研发团队，常年在世界各大水果产地寻找食材，包括越南、泰国、菲律宾等，以优质茶叶为茶底，精心研制独特饮品风味，每一款都能带来惊喜，让人人每天一杯喝不腻。
+    </string>
+    <string name="jiameng">
+        古茗唯一-官方合作热线: 4000-666-577、4000-365-577目前市面上所有打着“古茗招商加盟、代理”旗号的广告，与本品牌均无任何关系，请大家正确辨别真伪，谨防受骗。
+    </string>
+</resources>
